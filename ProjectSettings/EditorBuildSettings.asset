@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: fef9b3ebd324f7948ab55df33e15e4d3
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 6957227728a27424f8ef857d49392e92
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e6834aa189385d54aaf0c4a4fdb42dce
+  - enabled: 1
+    path: Assets/Scenes/WordTwistMenu.unity
+    guid: 8270a60b9bb0cfd4faa25d3de3ba9b2b
+  - enabled: 1
+    path: Assets/Scenes/Untimed/UntimedTutorial.unity
+    guid: 977ea4ec829c4df48a5455838f5ffc8a
+  - enabled: 1
+    path: Assets/Scenes/Timed/TimedTutorial.unity
+    guid: f2b5812720c81404b9104557c7d11d2f
+  - enabled: 1
+    path: Assets/Scenes/Untimed/LevelLoader_Easy.unity
+    guid: 9409bc7f14af495499fa173ec8f6839d
+  - enabled: 1
+    path: Assets/Scenes/Untimed/LevelLoader_Average.unity
+    guid: 726eff96a9e31674bb656ae2d65216d3
+  - enabled: 1
+    path: Assets/Scenes/Untimed/LevelLoader_Hard.unity
+    guid: f2e8de3c82791004aa7993e8a4737cfc
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Easy/Easy1-1.unity
+    guid: 0e35efcc12188f34eb6c42f07a81b5e4
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Easy/Easy1-2.unity
+    guid: 5c2cac02477efdd429a4ef9fed43d411
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Easy/Easy1-3.unity
+    guid: 69cd186953aa07b46b3b4e625ff8d67f
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Easy/Easy1-4.unity
+    guid: d4206c3df35550a47ad13e012fbd8d28
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Easy/Easy1-5.unity
+    guid: 373a875ad384e014ab85f98097b91fb7
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Average/Average1-1.unity
+    guid: ef7de3e93deb42c47b48c6afca2b615b
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Average/Average1-2.unity
+    guid: 3185dab24377d414e84d8d67ed24b1e6
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Average/Average1-3.unity
+    guid: 4e91e3586d8fe8f48932b417ebf89505
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Average/Average1-4.unity
+    guid: e8c1abeed8e2299449bec7c528bfb5c8
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Average/Average1-5.unity
+    guid: 2417579a7ed7eac45841c09e9fea079f
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Hard/Hard1-1.unity
+    guid: cb82161649a93834e9020dd725e1d6fc
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Hard/Hard1-2.unity
+    guid: c962e2fcb671594499caac3ba9e1177e
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Hard/Hard1-3.unity
+    guid: dacb25be8e204db48b335c262ed343b7
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Hard/Hard1-4.unity
+    guid: 6c2428645d9cedb4db9b936d87190b97
+  - enabled: 1
+    path: Assets/Scenes/Untimed/Hard/Hard1-5.unity
+    guid: 9ab467436b84dba4188e19fb2b5728a3
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_1.unity
+    guid: 2d3dc3cb9692a6b4393ca74be175e763
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_2.unity
+    guid: a27f9b074e602744fa70e6542d4ee4a4
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_3.unity
+    guid: e563a2bab79e2af4fa4eb9a1df29c73d
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_4.unity
+    guid: a9c5c891e2071ef47ba1894a48d8585d
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_5.unity
+    guid: 414c9e293ee7639459f3db3347307658
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_6.unity
+    guid: 4ca981ea2b7ea9b4ba01dd2013b2d401
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_7.unity
+    guid: cd3256adbd7b7994e8d380bbd3f9002f
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_8.unity
+    guid: ec8179f4b9ec96b4d836a4039dfd3f50
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_9.unity
+    guid: 980498a39902aa14887c11c3c2c09baa
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_10.unity
+    guid: f1bc3d1d35a19b445b260d2dacdb7f7b
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_11.unity
+    guid: 49a26b0d20880f64089123be32259049
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_12.unity
+    guid: 588a702f496c97049850c4c133f7f808
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_13.unity
+    guid: f39b6637fd702c84caf98cbe850e6c36
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_14.unity
+    guid: 9a06fd248dd63464488a1ca10e185d26
+  - enabled: 1
+    path: Assets/Scenes/Timed/Timed_15.unity
+    guid: 3b764b93c54273a44866376834f11d73
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto1.unity
+    guid: 4bebdf06a1c23b042a7ee77a9b2ee312
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto2.unity
+    guid: 443c7d78a6d810243a5e6f60aff73129
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto3.unity
+    guid: 83cb912de3a6df34b9089a42a88755a8
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto4.unity
+    guid: 181067cf224836540ae2f3d238865f52
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto5.unity
+    guid: d26cb359254dfd94db7438e1e9e6b489
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto6.unity
+    guid: 6e34ecbc69c93474ba878b87dac6c260
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto7.unity
+    guid: 36d897c8bb4cc8241b68ace34e2a0967
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto8.unity
+    guid: caa99842f4ba953478ea352a285731d6
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto9.unity
+    guid: 782b93477a4cef44db300a7e97f8661a
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto10.unity
+    guid: b867e17ff2f27d24faad9705f3085781
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto11.unity
+    guid: 7be9bd02c78ca8545b4fbd1ede6ea300
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto12.unity
+    guid: ff88fb62ebddbe948b15784712aca47d
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto13.unity
+    guid: 2825028c4c4122f4cb13b4293a50f065
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto14.unity
+    guid: c71dbdc6a586c5542803a961ec986221
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/Picto15.unity
+    guid: 342e0be1bee01ff4485378f4f1dd8712
+  - enabled: 1
+    path: Assets/Scenes/ReferenceScene.unity
+    guid: 6d38b41b9f0a60047ac5b03d3aaadc1f
+  - enabled: 1
+    path: Assets/Scenes/LeaderboardScene.unity
+    guid: ee97b1ae63bce8b41bfedaa8dd1835e8
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/WordGuess.unity
+    guid: 67d89209404b4514f85c4a21bfbe1968
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Greetings.unity
+    guid: 26c489bdee86cbf4aafbdb7be942cde8
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Greetings1.unity
+    guid: fff5c087c58316940a441f75f4a9d7ba
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Greetings2.unity
+    guid: 635bf17f0dafe8a4787d842b6ba6bcf9
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Greetings3.unity
+    guid: 31897334030429a41b6cb437ffdef887
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Relatives.unity
+    guid: dd552875a5ffe544c84ef62dd71ae498
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Relatives1.unity
+    guid: a80dd1ccfc584f448bfc461ebda16e6c
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Relatives2.unity
+    guid: 6acd30294fbc82e45987cb6878a22178
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Relatives3.unity
+    guid: 05b31a779f145ec47b578abd2e7900dd
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Colors.unity
+    guid: 598d7ca981e92924c87c562567b93945
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Colors1.unity
+    guid: 0a6a76c3c3b2d8f418ceb3aa975d7f52
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Colors2.unity
+    guid: f70ea7949c59d7e49a5aa3771e53b3ab
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Colors3.unity
+    guid: 29f6ba3e7184ed24fa1ed6345b598e89
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Fruits.unity
+    guid: 0b49e429645203a4195e209a916175ed
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Fruits1.unity
+    guid: 837349d9af1cb3f47998f1ab3a533bcc
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Fruits2.unity
+    guid: 67f128ca47bd3e549916dda55711d1f2
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/Fruits3.unity
+    guid: 99f5946b3a1e66f49ac880872b6ee428
+  - enabled: 1
+    path: Assets/Scenes/SettingsScene.unity
+    guid: 619b4de3cf77e4844889517138ed41d3
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/LevelLoader_Picto.unity
+    guid: f0061c29c0c4f1942a0b3311074e4072
+  - enabled: 1
+    path: Assets/Scenes/PictoWord/PictoTutorial.unity
+    guid: dfa4d5425b3e6104f8ce0f96f745ed61
+  - enabled: 1
+    path: Assets/Scenes/WordGuess/WordGuessTutorial.unity
+    guid: 61c93f7fe9d192b40b0874fca2ca922e
+  - enabled: 1
+    path: Assets/Scenes/SampleTextScene.unity
+    guid: c3d4a76cad274824c8f5340980fa6281
+  - enabled: 1
+    path: Assets/Scenes/AboutScene.unity
+    guid: 81827d816c06e6b468a6639ed5e6f72b
+  m_configObjects: {}

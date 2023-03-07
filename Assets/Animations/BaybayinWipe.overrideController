@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BaybayinWipe
+  m_Controller: {fileID: 9100000, guid: 2626ea7fc9288904e971fc1184b7b3ad, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: faed6df5c79b0984287f6ab8db9fda61, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 974521133d5d1984fba7c1a6ff2f0b7c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 02f406bd0f5aee44ba07d374621e0669, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7b03e75b453fcf5489619d3278f17da2, type: 2}
